@@ -89,4 +89,4 @@ Welcome to the Schedule Plus repository by Horizon Code! This app is designed to
 - **Backend**: Supabase for database and authentication.
 - **Payment Processing**: Stripe.
 - **Tracking**: Integration with Apple AirTags and other tracking devices.
-- **Maps**: Integration with map services like Google Maps or Mapbox.
+- **Maps**: Integration with map services like Google Maps.

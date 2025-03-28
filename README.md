@@ -64,7 +64,6 @@ Welcome to **CloudTrip+**, a full-stack cloud-based travel management app design
 5. Run the development server:
    ```
    npm run dev
-
 ## Usage
 1. Open http://localhost:3000 in your browser.
 2. Sign up or log in.

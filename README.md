@@ -1,6 +1,7 @@
-# CloudTrip+ by Horizon Code
+# Schedule-Plus by Horizon Code
 
-Welcome to **CloudTrip+**, a full-stack cloud-based travel management app designed to showcase AWS cloud development, DevOps, and full-stack engineering skills. This project allows users to plan and manage trips collaboratively while integrating cloud technologies and best practices.
+Welcome to Schedule-Plus, a full-stack cloud-based travel management app designed to showcase AWS cloud development, DevOps, and full-stack engineering skills. This project allows users to plan and manage trips collaboratively while integrating cloud technologies and best practices. 
+For a very similar **React Native App** using **Expo**, please visit my other repository: [Link to Your Other Repo]
 
 ## Table of Contents
 - [Features](#features)
